@@ -472,6 +472,10 @@ html{
     position: relative;
     bottom: 4px;
 }
+.textodownload {
+  text-decoration: none;
+  color: white;
+}
 /* SECCION PORTFOLIO */
 .portfolio{
     background-color: #1c71b6;
