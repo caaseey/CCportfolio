@@ -577,7 +577,7 @@ html{
 
 .contacto .col .info ul li {
     margin-bottom: 10px;
-    display: flex; /* Asegúrate de que los íconos y texto estén alineados */
+    display: absolute; /* Asegúrate de que los íconos y texto estén alineados */
 }
 
 .contacto .col .info ul li i {
